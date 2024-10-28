@@ -1,8 +1,8 @@
 ## Try it
 
-## [https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+<!-- [https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo) -->
 
-https://my-json-server.typicode.com/hongkun2022/mock
+[https://my-json-server.typicode.com/hongkun2022/mock](https://my-json-server.typicode.com/hongkun2022/mock)
 
 ## Use your own data
 
