@@ -10,5 +10,8 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "RESTAdapter": {
+    "ly": {"gw":{"if0076":{"a":"123"}}}
   }
 }
