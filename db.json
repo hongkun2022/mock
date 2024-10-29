@@ -1023,5 +1023,25 @@
               "INCO1": "DDP"
           }
       ]
+  },
+  "if0105": {
+    "HEAD": {
+        "PO_ID": "005056ae4e5e1edfa5ba7d2ea8e86f0a",
+        "INT_ID": "IF0105",
+        "SND_TIME": 20241029165806,
+        "SND_SYS": "BS_ED1CLNT300",
+        "RCV_SYS": "BC_LY_GW"
+    },
+    "RTYPE": "S",
+    "RTMSG": "状态更新成功！"
+  },
+  "if0104": {
+    "HEAD": {
+        "PO_ID": "005056ae4e5e1edfa5ba900e496faf19",
+        "INT_ID": "IF0104",
+        "SND_TIME": 20241029170219
+    },
+    "RTYPE": "S",
+    "RTMSG": "更新成功！！"
   }
 }
